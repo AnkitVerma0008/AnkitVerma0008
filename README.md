@@ -1,6 +1,16 @@
-# 💫 About Me:
-👋 Hi, I’m Ankit Anand Verma<br>💻 Aspiring Software Developer<br>🚀 Interested in Web Development, Data Engineering & AI/ML<br>🐍 Skilled in Python, JavaScript & building projects<br>🌱 Always learning and improving my skills<br>🎯 Goal: Become a Software Engineer and build impactful solutions
+# 💫 Hi 👋, I'm Ankit Anand Verma
+**Aspiring Software Engineer | Java, Python, SQL | Strong in Problem Solving**
 
+Email Me 👉 ✉️ **verma.ankit0002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 I’m currently working on: Real Time Stock Stock-Market Analytic System 
+- 🌱 I’m currently learning: DSA In Python
+- 👯 I’m looking to collaborate on: Real Time Stock Stock-Market Analytic System
+- 🤔 I’m looking for help with: Real Time Stock Stock-Market Analytic System
+- 💬 Ask me about: Collaboration, Tech Support
+- 📫 How to reach me: verma.ankit0002@gmail.com
+- 😄 Pronoun: Ankit
+- ⚡ Fun fact: Coding Is Now Smart
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/verma.__.ankit._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ankit-anand-verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:verma.ankit0002@gmail.com) 
@@ -11,9 +21,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=AnkitVerma0008&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AnkitVerma0008&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitVerma0008&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Snake Game Repo View -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnkitVerma0008&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
